@@ -1,0 +1,20 @@
+{
+  "name": "post_to_slack",
+  "version": "1.0.0",
+  "description": "motor de notificações para slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galeite03/post_to_slack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galeite03/post_to_slack/issues"
+  },
+  "homepage": "https://github.com/galeite03/post_to_slack#readme"
+}
